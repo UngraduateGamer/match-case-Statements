@@ -6,3 +6,6 @@ match a:
         print("this is Case 16") # if the case is match the condition the block will be executed other chq next
     case _:
         print("This is default case like else")  
+
+
+'''there is no requirement to the break statements'''
